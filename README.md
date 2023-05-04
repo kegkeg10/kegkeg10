@@ -7,7 +7,7 @@ Frontend Developer
 As a graduate of Nucamp's Full Stack Coding Bootcamp, I am a skilled developer who Loves Javascript
 
 * 🌍  I'm based in Louisiana
-* 🖥️  See my portfolio at [MY Portfolio Website](http://https://vercel.com/kegkeg10/nickortfoliowebsite)
+* 🖥️  See my portfolio at [MY Portfolio Website](https://nickortfoliowebsite.vercel.app/)
 * ✉️  You can contact me at [nickg13csg@gmail.com](mailto:nickg13csg@gmail.com)
 * 🚀  I'm currently working on [E-Commerce Store](http://https://github.com/kegkeg10/Comfy-Store-React)
 * 🧠  I'm learning TypeScript
