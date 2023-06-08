@@ -9,7 +9,7 @@ As a graduate of Nucamp's Full Stack Coding Bootcamp, I am a skilled developer w
 * 🌍  I'm based in Louisiana
 * 🖥️  See my portfolio at [MY Portfolio Website](https://nickg-port.vercel.app/)
 * ✉️  You can contact me at [nickg13csg@gmail.com](mailto:nickg13csg@gmail.com)
-* 🚀  I'm currently working on [E-Commerce Store](http://https://github.com/kegkeg10/Comfy-Store-React)
+* 🚀  I'm currently working on Data Algorithims 
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I Am Batman
