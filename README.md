@@ -6,7 +6,7 @@ Frontend Developer
 
 As a graduate of Nucamp's Full Stack Coding Bootcamp, I am a skilled developer who Loves Javascript
 
-* 🌍  I'm based in Louisiana
+* 🌍  I Live in Louisiana
 * 🖥️  See my portfolio at [MY Portfolio Website](https://nickg-port.vercel.app/)
 * ✉️  You can contact me at [nickg13csg@gmail.com](mailto:nickg13csg@gmail.com)
 * 🚀  I'm currently working on Data Algorithims 
