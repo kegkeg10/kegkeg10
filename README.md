@@ -4,7 +4,7 @@ Hi 👋 My name is Nicholas Garner
 Frontend Developer
 ------------------
 
-As a graduate of Nucamp's Full Stack Coding Bootcamp, I am a skilled developer who Loves Coding
+As a graduate of Nucamp's Full Stack Coding Bootcamp, I am a skilled developer who Loves to Coding
 
 * 🌍  I Live in Louisiana
 * 🖥️  See my portfolio at [MY Portfolio Website](https://nickg-port.vercel.app/)
