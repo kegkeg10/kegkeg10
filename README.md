@@ -9,7 +9,7 @@ As a graduate of Nucamp's Full Stack Coding Bootcamp, I am a skilled developer w
 * 🌍  I Live in Louisiana
 * 🖥️  See my portfolio at [MY Portfolio Website](https://nickg-port.vercel.app/)
 * ✉️  You can contact me at [nickg13csg@gmail.com](mailto:nickg13csg@gmail.com)
-* 🚀  I'm currently working on Data Algorithms 
+* 🚀  I'm currently working on Data Algorithms And Data Structures
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I Am The Flash
